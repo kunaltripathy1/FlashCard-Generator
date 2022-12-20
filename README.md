@@ -1,4 +1,4 @@
-This is a Capstone Project - Flashcard Generater
+This is a Capstone Project - Flashcard Generater created by KT
 
 which has mainly 3 pages
 
